@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="not_implemented_text">This button will launch a project, though it\'s not been implemented yet.</string>
+</resources>
